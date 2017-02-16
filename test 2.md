@@ -1,3 +1,3 @@
-*fisrt item
-*second item
-*third item
+* fisrt item
+* second item
+* third item
